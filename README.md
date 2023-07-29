@@ -8,5 +8,5 @@ used with CDNjs https://github.com/cdnjs/cdnjs
 For download any file of this repo:  
 
 ```
-    https://cdn.jsdelivr.net/gh/vitoivan/cdn/<filename>
+https://cdn.jsdelivr.net/gh/vitoivan/cdn/<filename>
 ```
